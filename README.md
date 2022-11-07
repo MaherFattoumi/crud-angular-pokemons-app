@@ -1,4 +1,4 @@
-# CRUD-Angular
+# crud-angular-1
 To launch this application run :
 * npm install
 * ng serve
